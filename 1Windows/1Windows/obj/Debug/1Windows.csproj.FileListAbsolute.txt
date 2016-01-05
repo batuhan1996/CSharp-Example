@@ -1,0 +1,9 @@
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\bin\Debug\1Windows.exe.config
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\bin\Debug\1Windows.exe
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\bin\Debug\1Windows.pdb
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\1Windows.csprojResolveAssemblyReference.cache
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\_1Windows.Form1.resources
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\_1Windows.Properties.Resources.resources
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\1Windows.csproj.GenerateResource.Cache
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\1Windows.exe
+c:\users\lenovo-pc\documents\visual studio 2013\Projects\1Windows\1Windows\obj\Debug\1Windows.pdb
